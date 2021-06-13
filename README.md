@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 👀 I’m interested in web development, Machine learning project.
-- 🌱 I’m currently learning Javascript, html and CSS..
+- 🌱 I’m currently learning Javascript, html and CSS.. And algorithm through leetcode QAQ
 - 💞️ I’m a student studying in hkust.
 - 📫 How to reach me : pwliuab@connect.ust.hk
 
