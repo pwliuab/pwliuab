@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 👀 I’m interested in web development, Machine learning project.
-- 🌱 I’m currently learning Javascript, html and CSS.. And algorithm through leetcode QAQ
+- 🌱 I’m currently learning Javascript, html and CSS.. And algorithm through <a href="https://leetcode.com/DeathNote/">leetcode</a> QAQ
 - 💞️ I’m a student studying in hkust. Favourite programming language : C++!!
 - 📫 How to reach me : pwliuab@connect.ust.hk
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
