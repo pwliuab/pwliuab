@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript, html and CSS.. And algorithm through leetcode QAQ
 - 💞️ I’m a student studying in hkust. Favourite programming language : C++!!
 - 📫 How to reach me : pwliuab@connect.ust.hk
+- 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
+
 
 <!---
 pwliuab/pwliuab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
