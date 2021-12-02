@@ -4,7 +4,8 @@
 - 💞️ I’m a student studying in hkust. Favourite programming language : C++!!
 - 📫 How to reach me : pwliuab@connect.ust.hk
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
-
+- 📫 Programming Skills: Javascript, Python, PHP, CSS, HTML, C++, C, Kotlin, Java.
+- 📫 Framework/Library: backend -> (Django, node.js, express.js) && frontend -> (react.js, angular, D3.js) && Machine learning -> (pytorch)
 
 <!---
 pwliuab/pwliuab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
