@@ -5,7 +5,7 @@
 - 📫 How to reach me : pwliuab@connect.ust.hk
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
 - 📫 Programming Skills: Javascript, Python, PHP, CSS, HTML, C++, C, Kotlin, Java, SQL.
-- 📫 Framework/Library: backend -> (Django, node.js, express.js) && frontend -> (react.js, angular, D3.js) && Machine learning -> (pytorch)
+- 📫 Framework/Library: backend -> (Django, node.js, express.js) && frontend -> (react native, react.js, angular, D3.js) && Machine learning -> (pytorch)
 - 📫 Database: Mongodb, MySQL
 - 📫 Books (reading): 細説PHP, C++ primer, clean code.. :) I am always exicited to learn about advance programming techniques.
 
