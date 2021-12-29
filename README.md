@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 👀 I’m interested in web development, Machine learning project.
-- 🌱 I’m currently learning Linux, Java backend and Mongodb And algorithm through <a href="https://leetcode.com/DeathNote/">leetcode</a> 
+- 🌱 I’m currently learning Linux, Mongodb And algorithm through <a href="https://leetcode.com/DeathNote/">leetcode</a> 
 - 💞️ I’m a student studying in hkust. Favourite programming language : C++!!
 - 📫 How to reach me : pwliuab@connect.ust.hk
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
