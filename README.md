@@ -7,7 +7,7 @@
 - 📫 Programming Skills: Javascript, Python, PHP, CSS, HTML, C++, C, Kotlin, Java, SQL.
 - 📫 Framework/Library: backend -> (Django, node.js, express.js) && frontend -> (react native, react.js, angular, D3.js) && Machine learning -> (pytorch)
 - 📫 Database: Mongodb, MySQL
-- 📫 Books (reading): 細説PHP, C++ primer, clean code.. :) I am always exicited to learn about advance programming techniques.
+- 📫 Books (reading): clean code.. :) I am always exicited to learn about advance programming techniques.
 
 <!---
 pwliuab/pwliuab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
