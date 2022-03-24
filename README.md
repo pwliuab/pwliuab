@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, Machine learning project.
 - 🌱 I’m currently learning algorithm through <a href="https://leetcode.com/DeathNote/">leetcode</a> 
 - 💞️ I’m a student studying in hkust. Favourite programming language : C++!!
-- 📫 How to reach me : pwliuab@connect.ust.hk
+- 📫 How to reach me : q374536937@gmail.com
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
 - 📫 Programming Skills: Javascript, Python, PHP, CSS, HTML, C++, C, Kotlin, Java, SQL.
 - 📫 Framework/Library: backend -> (Django, node.js, express.js) && frontend -> (react native, react.js, angular, D3.js) && Machine learning -> (pytorch)
