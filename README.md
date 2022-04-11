@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning algorithm through <a href="https://leetcode.com/DeathNote/">leetcode</a> 
 - 💞️ I’m a student studying in hkust. Favourite programming language : C++!!
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
-- 📫 Programming Skills: Javascript, Python, PHP, CSS, HTML, C++, C, Kotlin, Java, SQL.
-- 📫 Framework/Library: backend -> (Django, node.js, express.js) && frontend -> (react native, react.js, angular, D3.js) && Machine learning -> (pytorch)
-- 📫 Database: Mongodb, MySQL
-- 📫 Books (reading): clean code.. :) I am always exicited to learn about advance programming techniques.
-
+- 
 <!---
 pwliuab/pwliuab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
