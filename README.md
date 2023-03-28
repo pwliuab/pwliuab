@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Paul
 - 👀 I’m interested in web development, Machine learning project.
-- 🌱 I’m currently learning algorithm through <a href="https://leetcode.com/DeathNote/">leetcode</a> 
-- 💞️ I’m a student studying in hkust. Favourite programming language : C++~~
+- 💞️ . Favourite programming language : C++~~
 - 📫 I'm currently reading Operating System Three Easy Piecesz ^ ^.
 - I am trying to contribute to the open source project~ Happy coding.
 
